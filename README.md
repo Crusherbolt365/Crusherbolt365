@@ -17,8 +17,6 @@
 
 > [!NOTE]
 > **Current official GitHub account:** `@Crusherbolt365`
->
-> Replace this placeholder with the username of the account where you publish this README.
 
 <p align="center">
   🚀 Built my first app at 14:
