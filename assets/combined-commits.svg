@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="834" height="267" viewBox="0 0 834 267" role="img" aria-labelledby="title desc">
+<title id="title">Combined GitHub commit calendar for 2026</title>
+<desc id="desc">30 commits by Crusherbolt before July 17, 5 commits by Crusherbolt365 from July 17, 35 commits in total.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
+.title{font-size:18px;font-weight:700;fill:#134e4a}
+.subtitle{font-size:12px;fill:#475569}
+.stat-label{font-size:10px;font-weight:600;fill:#64748b;text-transform:uppercase;letter-spacing:.5px}
+.stat-value{font-size:22px;font-weight:700;fill:#0f172a}
+.axis{font-size:10px;fill:#64748b}
+.legend{font-size:11px;fill:#334155}
+.cutover{font-size:10px;font-weight:600;fill:#7c3aed}
+</style>
+<rect width="100%" height="100%" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="24" y="31" class="title" text-anchor="start">Combined Commit Activity · 2026</text>
+<text x="24" y="51" class="subtitle" text-anchor="start">@Crusherbolt before 17 July + @Crusherbolt365 from 17 July</text>
+<rect x="24" y="66" width="160" height="48" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="24" y="66" width="4" height="48" rx="2" fill="#0f766e"/>
+<text x="38" y="83" class="stat-label" text-anchor="start">OLD ID</text>
+<text x="38" y="106" class="stat-value" text-anchor="start">30</text>
+<rect x="204" y="66" width="160" height="48" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="204" y="66" width="4" height="48" rx="2" fill="#0369a1"/>
+<text x="218" y="83" class="stat-label" text-anchor="start">NEW ID</text>
+<text x="218" y="106" class="stat-value" text-anchor="start">5</text>
+<rect x="384" y="66" width="160" height="48" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+<rect x="384" y="66" width="4" height="48" rx="2" fill="#7c3aed"/>
+<text x="398" y="83" class="stat-label" text-anchor="start">COMBINED TOTAL</text>
+<text x="398" y="106" class="stat-value" text-anchor="start">35</text>
+<text x="50" y="155" class="axis" text-anchor="end">Mon</text>
+<text x="50" y="183" class="axis" text-anchor="end">Wed</text>
+<text x="50" y="211" class="axis" text-anchor="end">Fri</text>
+<text x="58" y="123" class="axis" text-anchor="start">Jan</text>
+<text x="128" y="123" class="axis" text-anchor="start">Feb</text>
+<text x="184" y="123" class="axis" text-anchor="start">Mar</text>
+<text x="240" y="123" class="axis" text-anchor="start">Apr</text>
+<text x="296" y="123" class="axis" text-anchor="start">May</text>
+<text x="366" y="123" class="axis" text-anchor="start">Jun</text>
+<text x="422" y="123" class="axis" text-anchor="start">Jul</text>
+<text x="478" y="123" class="axis" text-anchor="start">Aug</text>
+<text x="548" y="123" class="axis" text-anchor="start">Sep</text>
+<text x="604" y="123" class="axis" text-anchor="start">Oct</text>
+<text x="674" y="123" class="axis" text-anchor="start">Nov</text>
+<text x="730" y="123" class="axis" text-anchor="start">Dec</text>
+<rect x="58" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-01 · @Crusherbolt</title></rect>
+<rect x="58" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-02 · @Crusherbolt</title></rect>
+<rect x="58" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-03 · @Crusherbolt</title></rect>
+<rect x="72" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-04 · @Crusherbolt</title></rect>
+<rect x="72" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-05 · @Crusherbolt</title></rect>
+<rect x="72" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-06 · @Crusherbolt</title></rect>
+<rect x="72" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-07 · @Crusherbolt</title></rect>
+<rect x="72" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-08 · @Crusherbolt</title></rect>
+<rect x="72" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-09 · @Crusherbolt</title></rect>
+<rect x="72" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-10 · @Crusherbolt</title></rect>
+<rect x="86" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-11 · @Crusherbolt</title></rect>
+<rect x="86" y="146" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-01-12 · @Crusherbolt</title></rect>
+<rect x="86" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-13 · @Crusherbolt</title></rect>
+<rect x="86" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-14 · @Crusherbolt</title></rect>
+<rect x="86" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-15 · @Crusherbolt</title></rect>
+<rect x="86" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-16 · @Crusherbolt</title></rect>
+<rect x="86" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-17 · @Crusherbolt</title></rect>
+<rect x="100" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-18 · @Crusherbolt</title></rect>
+<rect x="100" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-19 · @Crusherbolt</title></rect>
+<rect x="100" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-20 · @Crusherbolt</title></rect>
+<rect x="100" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-21 · @Crusherbolt</title></rect>
+<rect x="100" y="188" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-01-22 · @Crusherbolt</title></rect>
+<rect x="100" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-23 · @Crusherbolt</title></rect>
+<rect x="100" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-24 · @Crusherbolt</title></rect>
+<rect x="114" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-25 · @Crusherbolt</title></rect>
+<rect x="114" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-26 · @Crusherbolt</title></rect>
+<rect x="114" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-27 · @Crusherbolt</title></rect>
+<rect x="114" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-28 · @Crusherbolt</title></rect>
+<rect x="114" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-29 · @Crusherbolt</title></rect>
+<rect x="114" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-30 · @Crusherbolt</title></rect>
+<rect x="114" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-01-31 · @Crusherbolt</title></rect>
+<rect x="128" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-01 · @Crusherbolt</title></rect>
+<rect x="128" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-02 · @Crusherbolt</title></rect>
+<rect x="128" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-03 · @Crusherbolt</title></rect>
+<rect x="128" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-04 · @Crusherbolt</title></rect>
+<rect x="128" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-05 · @Crusherbolt</title></rect>
+<rect x="128" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-06 · @Crusherbolt</title></rect>
+<rect x="128" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-07 · @Crusherbolt</title></rect>
+<rect x="142" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-08 · @Crusherbolt</title></rect>
+<rect x="142" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-09 · @Crusherbolt</title></rect>
+<rect x="142" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-10 · @Crusherbolt</title></rect>
+<rect x="142" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-11 · @Crusherbolt</title></rect>
+<rect x="142" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-12 · @Crusherbolt</title></rect>
+<rect x="142" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-13 · @Crusherbolt</title></rect>
+<rect x="142" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-14 · @Crusherbolt</title></rect>
+<rect x="156" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-15 · @Crusherbolt</title></rect>
+<rect x="156" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-16 · @Crusherbolt</title></rect>
+<rect x="156" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-17 · @Crusherbolt</title></rect>
+<rect x="156" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-18 · @Crusherbolt</title></rect>
+<rect x="156" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-19 · @Crusherbolt</title></rect>
+<rect x="156" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-20 · @Crusherbolt</title></rect>
+<rect x="156" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-21 · @Crusherbolt</title></rect>
+<rect x="170" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-22 · @Crusherbolt</title></rect>
+<rect x="170" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-23 · @Crusherbolt</title></rect>
+<rect x="170" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-24 · @Crusherbolt</title></rect>
+<rect x="170" y="174" width="11" height="11" rx="2" fill="#5eead4" opacity="1"><title>2 commits on 2026-02-25 · @Crusherbolt</title></rect>
+<rect x="170" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-26 · @Crusherbolt</title></rect>
+<rect x="170" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-27 · @Crusherbolt</title></rect>
+<rect x="170" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-02-28 · @Crusherbolt</title></rect>
+<rect x="184" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-01 · @Crusherbolt</title></rect>
+<rect x="184" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-02 · @Crusherbolt</title></rect>
+<rect x="184" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-03 · @Crusherbolt</title></rect>
+<rect x="184" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-04 · @Crusherbolt</title></rect>
+<rect x="184" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-05 · @Crusherbolt</title></rect>
+<rect x="184" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-06 · @Crusherbolt</title></rect>
+<rect x="184" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-07 · @Crusherbolt</title></rect>
+<rect x="198" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-08 · @Crusherbolt</title></rect>
+<rect x="198" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-09 · @Crusherbolt</title></rect>
+<rect x="198" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-10 · @Crusherbolt</title></rect>
+<rect x="198" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-11 · @Crusherbolt</title></rect>
+<rect x="198" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-12 · @Crusherbolt</title></rect>
+<rect x="198" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-13 · @Crusherbolt</title></rect>
+<rect x="198" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-14 · @Crusherbolt</title></rect>
+<rect x="212" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-15 · @Crusherbolt</title></rect>
+<rect x="212" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-16 · @Crusherbolt</title></rect>
+<rect x="212" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-17 · @Crusherbolt</title></rect>
+<rect x="212" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-18 · @Crusherbolt</title></rect>
+<rect x="212" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-19 · @Crusherbolt</title></rect>
+<rect x="212" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-20 · @Crusherbolt</title></rect>
+<rect x="212" y="216" width="11" height="11" rx="2" fill="#5eead4" opacity="1"><title>2 commits on 2026-03-21 · @Crusherbolt</title></rect>
+<rect x="226" y="132" width="11" height="11" rx="2" fill="#5eead4" opacity="1"><title>2 commits on 2026-03-22 · @Crusherbolt</title></rect>
+<rect x="226" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-23 · @Crusherbolt</title></rect>
+<rect x="226" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-24 · @Crusherbolt</title></rect>
+<rect x="226" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-25 · @Crusherbolt</title></rect>
+<rect x="226" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-26 · @Crusherbolt</title></rect>
+<rect x="226" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-27 · @Crusherbolt</title></rect>
+<rect x="226" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-28 · @Crusherbolt</title></rect>
+<rect x="240" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-29 · @Crusherbolt</title></rect>
+<rect x="240" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-30 · @Crusherbolt</title></rect>
+<rect x="240" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-03-31 · @Crusherbolt</title></rect>
+<rect x="240" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-01 · @Crusherbolt</title></rect>
+<rect x="240" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-02 · @Crusherbolt</title></rect>
+<rect x="240" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-03 · @Crusherbolt</title></rect>
+<rect x="240" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-04 · @Crusherbolt</title></rect>
+<rect x="254" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-05 · @Crusherbolt</title></rect>
+<rect x="254" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-06 · @Crusherbolt</title></rect>
+<rect x="254" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-07 · @Crusherbolt</title></rect>
+<rect x="254" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-08 · @Crusherbolt</title></rect>
+<rect x="254" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-09 · @Crusherbolt</title></rect>
+<rect x="254" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-10 · @Crusherbolt</title></rect>
+<rect x="254" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-11 · @Crusherbolt</title></rect>
+<rect x="268" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-12 · @Crusherbolt</title></rect>
+<rect x="268" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-13 · @Crusherbolt</title></rect>
+<rect x="268" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-14 · @Crusherbolt</title></rect>
+<rect x="268" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-15 · @Crusherbolt</title></rect>
+<rect x="268" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-16 · @Crusherbolt</title></rect>
+<rect x="268" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-17 · @Crusherbolt</title></rect>
+<rect x="268" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-18 · @Crusherbolt</title></rect>
+<rect x="282" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-19 · @Crusherbolt</title></rect>
+<rect x="282" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-20 · @Crusherbolt</title></rect>
+<rect x="282" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-21 · @Crusherbolt</title></rect>
+<rect x="282" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-22 · @Crusherbolt</title></rect>
+<rect x="282" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-23 · @Crusherbolt</title></rect>
+<rect x="282" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-24 · @Crusherbolt</title></rect>
+<rect x="282" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-25 · @Crusherbolt</title></rect>
+<rect x="296" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-26 · @Crusherbolt</title></rect>
+<rect x="296" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-27 · @Crusherbolt</title></rect>
+<rect x="296" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-28 · @Crusherbolt</title></rect>
+<rect x="296" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-29 · @Crusherbolt</title></rect>
+<rect x="296" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-04-30 · @Crusherbolt</title></rect>
+<rect x="296" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-01 · @Crusherbolt</title></rect>
+<rect x="296" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-02 · @Crusherbolt</title></rect>
+<rect x="310" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-03 · @Crusherbolt</title></rect>
+<rect x="310" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-04 · @Crusherbolt</title></rect>
+<rect x="310" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-05 · @Crusherbolt</title></rect>
+<rect x="310" y="174" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-05-06 · @Crusherbolt</title></rect>
+<rect x="310" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-07 · @Crusherbolt</title></rect>
+<rect x="310" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-08 · @Crusherbolt</title></rect>
+<rect x="310" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-09 · @Crusherbolt</title></rect>
+<rect x="324" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-10 · @Crusherbolt</title></rect>
+<rect x="324" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-11 · @Crusherbolt</title></rect>
+<rect x="324" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-12 · @Crusherbolt</title></rect>
+<rect x="324" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-13 · @Crusherbolt</title></rect>
+<rect x="324" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-14 · @Crusherbolt</title></rect>
+<rect x="324" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-15 · @Crusherbolt</title></rect>
+<rect x="324" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-16 · @Crusherbolt</title></rect>
+<rect x="338" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-17 · @Crusherbolt</title></rect>
+<rect x="338" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-18 · @Crusherbolt</title></rect>
+<rect x="338" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-19 · @Crusherbolt</title></rect>
+<rect x="338" y="174" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-05-20 · @Crusherbolt</title></rect>
+<rect x="338" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-21 · @Crusherbolt</title></rect>
+<rect x="338" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-22 · @Crusherbolt</title></rect>
+<rect x="338" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-23 · @Crusherbolt</title></rect>
+<rect x="352" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-24 · @Crusherbolt</title></rect>
+<rect x="352" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-25 · @Crusherbolt</title></rect>
+<rect x="352" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-26 · @Crusherbolt</title></rect>
+<rect x="352" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-27 · @Crusherbolt</title></rect>
+<rect x="352" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-28 · @Crusherbolt</title></rect>
+<rect x="352" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-29 · @Crusherbolt</title></rect>
+<rect x="352" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-30 · @Crusherbolt</title></rect>
+<rect x="366" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-05-31 · @Crusherbolt</title></rect>
+<rect x="366" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-01 · @Crusherbolt</title></rect>
+<rect x="366" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-02 · @Crusherbolt</title></rect>
+<rect x="366" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-03 · @Crusherbolt</title></rect>
+<rect x="366" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-04 · @Crusherbolt</title></rect>
+<rect x="366" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-05 · @Crusherbolt</title></rect>
+<rect x="366" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-06 · @Crusherbolt</title></rect>
+<rect x="380" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-07 · @Crusherbolt</title></rect>
+<rect x="380" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-08 · @Crusherbolt</title></rect>
+<rect x="380" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-09 · @Crusherbolt</title></rect>
+<rect x="380" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-10 · @Crusherbolt</title></rect>
+<rect x="380" y="188" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-06-11 · @Crusherbolt</title></rect>
+<rect x="380" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-12 · @Crusherbolt</title></rect>
+<rect x="380" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-13 · @Crusherbolt</title></rect>
+<rect x="394" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-14 · @Crusherbolt</title></rect>
+<rect x="394" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-15 · @Crusherbolt</title></rect>
+<rect x="394" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-16 · @Crusherbolt</title></rect>
+<rect x="394" y="174" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-06-17 · @Crusherbolt</title></rect>
+<rect x="394" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-18 · @Crusherbolt</title></rect>
+<rect x="394" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-19 · @Crusherbolt</title></rect>
+<rect x="394" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-20 · @Crusherbolt</title></rect>
+<rect x="408" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-21 · @Crusherbolt</title></rect>
+<rect x="408" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-22 · @Crusherbolt</title></rect>
+<rect x="408" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-23 · @Crusherbolt</title></rect>
+<rect x="408" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-24 · @Crusherbolt</title></rect>
+<rect x="408" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-25 · @Crusherbolt</title></rect>
+<rect x="408" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-26 · @Crusherbolt</title></rect>
+<rect x="408" y="216" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-06-27 · @Crusherbolt</title></rect>
+<rect x="422" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-28 · @Crusherbolt</title></rect>
+<rect x="422" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-06-29 · @Crusherbolt</title></rect>
+<rect x="422" y="160" width="11" height="11" rx="2" fill="#2dd4bf" opacity="1"><title>5 commits on 2026-06-30 · @Crusherbolt</title></rect>
+<rect x="422" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-01 · @Crusherbolt</title></rect>
+<rect x="422" y="188" width="11" height="11" rx="2" fill="#99f6e4" opacity="1"><title>1 commit on 2026-07-02 · @Crusherbolt</title></rect>
+<rect x="422" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-03 · @Crusherbolt</title></rect>
+<rect x="422" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-04 · @Crusherbolt</title></rect>
+<rect x="436" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-05 · @Crusherbolt</title></rect>
+<rect x="436" y="146" width="11" height="11" rx="2" fill="#2dd4bf" opacity="1"><title>4 commits on 2026-07-06 · @Crusherbolt</title></rect>
+<rect x="436" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-07 · @Crusherbolt</title></rect>
+<rect x="436" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-08 · @Crusherbolt</title></rect>
+<rect x="436" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-09 · @Crusherbolt</title></rect>
+<rect x="436" y="202" width="11" height="11" rx="2" fill="#2dd4bf" opacity="1"><title>5 commits on 2026-07-10 · @Crusherbolt</title></rect>
+<rect x="436" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-11 · @Crusherbolt</title></rect>
+<rect x="450" y="132" width="11" height="11" rx="2" fill="#5eead4" opacity="1"><title>2 commits on 2026-07-12 · @Crusherbolt</title></rect>
+<rect x="450" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-13 · @Crusherbolt</title></rect>
+<rect x="450" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-14 · @Crusherbolt</title></rect>
+<rect x="450" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-15 · @Crusherbolt</title></rect>
+<rect x="450" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-16 · @Crusherbolt</title></rect>
+<rect x="450" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-17 · @Crusherbolt365</title></rect>
+<rect x="450" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-18 · @Crusherbolt365</title></rect>
+<rect x="464" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-19 · @Crusherbolt365</title></rect>
+<rect x="464" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-20 · @Crusherbolt365</title></rect>
+<rect x="464" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-21 · @Crusherbolt365</title></rect>
+<rect x="464" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-22 · @Crusherbolt365</title></rect>
+<rect x="464" y="188" width="11" height="11" rx="2" fill="#7dd3fc" opacity="1"><title>3 commits on 2026-07-23 · @Crusherbolt365</title></rect>
+<rect x="464" y="202" width="11" height="11" rx="2" fill="#bae6fd" opacity="1"><title>1 commit on 2026-07-24 · @Crusherbolt365</title></rect>
+<rect x="464" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-25 · @Crusherbolt365</title></rect>
+<rect x="478" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-26 · @Crusherbolt365</title></rect>
+<rect x="478" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-27 · @Crusherbolt365</title></rect>
+<rect x="478" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-28 · @Crusherbolt365</title></rect>
+<rect x="478" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-29 · @Crusherbolt365</title></rect>
+<rect x="478" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-30 · @Crusherbolt365</title></rect>
+<rect x="478" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-07-31 · @Crusherbolt365</title></rect>
+<rect x="478" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-08-01 · @Crusherbolt365</title></rect>
+<rect x="492" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-08-02 · @Crusherbolt365</title></rect>
+<rect x="492" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="1"><title>0 commits on 2026-08-03 · @Crusherbolt365</title></rect>
+<rect x="492" y="160" width="11" height="11" rx="2" fill="#bae6fd" opacity="1"><title>1 commit on 2026-08-04 · @Crusherbolt365</title></rect>
+<rect x="492" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-05 · @Crusherbolt365</title></rect>
+<rect x="492" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-06 · @Crusherbolt365</title></rect>
+<rect x="492" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-07 · @Crusherbolt365</title></rect>
+<rect x="492" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-08 · @Crusherbolt365</title></rect>
+<rect x="506" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-09 · @Crusherbolt365</title></rect>
+<rect x="506" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-10 · @Crusherbolt365</title></rect>
+<rect x="506" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-11 · @Crusherbolt365</title></rect>
+<rect x="506" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-12 · @Crusherbolt365</title></rect>
+<rect x="506" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-13 · @Crusherbolt365</title></rect>
+<rect x="506" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-14 · @Crusherbolt365</title></rect>
+<rect x="506" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-15 · @Crusherbolt365</title></rect>
+<rect x="520" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-16 · @Crusherbolt365</title></rect>
+<rect x="520" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-17 · @Crusherbolt365</title></rect>
+<rect x="520" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-18 · @Crusherbolt365</title></rect>
+<rect x="520" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-19 · @Crusherbolt365</title></rect>
+<rect x="520" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-20 · @Crusherbolt365</title></rect>
+<rect x="520" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-21 · @Crusherbolt365</title></rect>
+<rect x="520" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-22 · @Crusherbolt365</title></rect>
+<rect x="534" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-23 · @Crusherbolt365</title></rect>
+<rect x="534" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-24 · @Crusherbolt365</title></rect>
+<rect x="534" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-25 · @Crusherbolt365</title></rect>
+<rect x="534" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-26 · @Crusherbolt365</title></rect>
+<rect x="534" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-27 · @Crusherbolt365</title></rect>
+<rect x="534" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-28 · @Crusherbolt365</title></rect>
+<rect x="534" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-29 · @Crusherbolt365</title></rect>
+<rect x="548" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-30 · @Crusherbolt365</title></rect>
+<rect x="548" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-08-31 · @Crusherbolt365</title></rect>
+<rect x="548" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-01 · @Crusherbolt365</title></rect>
+<rect x="548" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-02 · @Crusherbolt365</title></rect>
+<rect x="548" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-03 · @Crusherbolt365</title></rect>
+<rect x="548" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-04 · @Crusherbolt365</title></rect>
+<rect x="548" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-05 · @Crusherbolt365</title></rect>
+<rect x="562" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-06 · @Crusherbolt365</title></rect>
+<rect x="562" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-07 · @Crusherbolt365</title></rect>
+<rect x="562" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-08 · @Crusherbolt365</title></rect>
+<rect x="562" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-09 · @Crusherbolt365</title></rect>
+<rect x="562" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-10 · @Crusherbolt365</title></rect>
+<rect x="562" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-11 · @Crusherbolt365</title></rect>
+<rect x="562" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-12 · @Crusherbolt365</title></rect>
+<rect x="576" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-13 · @Crusherbolt365</title></rect>
+<rect x="576" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-14 · @Crusherbolt365</title></rect>
+<rect x="576" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-15 · @Crusherbolt365</title></rect>
+<rect x="576" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-16 · @Crusherbolt365</title></rect>
+<rect x="576" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-17 · @Crusherbolt365</title></rect>
+<rect x="576" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-18 · @Crusherbolt365</title></rect>
+<rect x="576" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-19 · @Crusherbolt365</title></rect>
+<rect x="590" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-20 · @Crusherbolt365</title></rect>
+<rect x="590" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-21 · @Crusherbolt365</title></rect>
+<rect x="590" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-22 · @Crusherbolt365</title></rect>
+<rect x="590" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-23 · @Crusherbolt365</title></rect>
+<rect x="590" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-24 · @Crusherbolt365</title></rect>
+<rect x="590" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-25 · @Crusherbolt365</title></rect>
+<rect x="590" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-26 · @Crusherbolt365</title></rect>
+<rect x="604" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-27 · @Crusherbolt365</title></rect>
+<rect x="604" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-28 · @Crusherbolt365</title></rect>
+<rect x="604" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-29 · @Crusherbolt365</title></rect>
+<rect x="604" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-09-30 · @Crusherbolt365</title></rect>
+<rect x="604" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-01 · @Crusherbolt365</title></rect>
+<rect x="604" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-02 · @Crusherbolt365</title></rect>
+<rect x="604" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-03 · @Crusherbolt365</title></rect>
+<rect x="618" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-04 · @Crusherbolt365</title></rect>
+<rect x="618" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-05 · @Crusherbolt365</title></rect>
+<rect x="618" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-06 · @Crusherbolt365</title></rect>
+<rect x="618" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-07 · @Crusherbolt365</title></rect>
+<rect x="618" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-08 · @Crusherbolt365</title></rect>
+<rect x="618" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-09 · @Crusherbolt365</title></rect>
+<rect x="618" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-10 · @Crusherbolt365</title></rect>
+<rect x="632" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-11 · @Crusherbolt365</title></rect>
+<rect x="632" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-12 · @Crusherbolt365</title></rect>
+<rect x="632" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-13 · @Crusherbolt365</title></rect>
+<rect x="632" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-14 · @Crusherbolt365</title></rect>
+<rect x="632" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-15 · @Crusherbolt365</title></rect>
+<rect x="632" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-16 · @Crusherbolt365</title></rect>
+<rect x="632" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-17 · @Crusherbolt365</title></rect>
+<rect x="646" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-18 · @Crusherbolt365</title></rect>
+<rect x="646" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-19 · @Crusherbolt365</title></rect>
+<rect x="646" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-20 · @Crusherbolt365</title></rect>
+<rect x="646" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-21 · @Crusherbolt365</title></rect>
+<rect x="646" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-22 · @Crusherbolt365</title></rect>
+<rect x="646" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-23 · @Crusherbolt365</title></rect>
+<rect x="646" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-24 · @Crusherbolt365</title></rect>
+<rect x="660" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-25 · @Crusherbolt365</title></rect>
+<rect x="660" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-26 · @Crusherbolt365</title></rect>
+<rect x="660" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-27 · @Crusherbolt365</title></rect>
+<rect x="660" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-28 · @Crusherbolt365</title></rect>
+<rect x="660" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-29 · @Crusherbolt365</title></rect>
+<rect x="660" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-30 · @Crusherbolt365</title></rect>
+<rect x="660" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-10-31 · @Crusherbolt365</title></rect>
+<rect x="674" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-01 · @Crusherbolt365</title></rect>
+<rect x="674" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-02 · @Crusherbolt365</title></rect>
+<rect x="674" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-03 · @Crusherbolt365</title></rect>
+<rect x="674" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-04 · @Crusherbolt365</title></rect>
+<rect x="674" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-05 · @Crusherbolt365</title></rect>
+<rect x="674" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-06 · @Crusherbolt365</title></rect>
+<rect x="674" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-07 · @Crusherbolt365</title></rect>
+<rect x="688" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-08 · @Crusherbolt365</title></rect>
+<rect x="688" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-09 · @Crusherbolt365</title></rect>
+<rect x="688" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-10 · @Crusherbolt365</title></rect>
+<rect x="688" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-11 · @Crusherbolt365</title></rect>
+<rect x="688" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-12 · @Crusherbolt365</title></rect>
+<rect x="688" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-13 · @Crusherbolt365</title></rect>
+<rect x="688" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-14 · @Crusherbolt365</title></rect>
+<rect x="702" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-15 · @Crusherbolt365</title></rect>
+<rect x="702" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-16 · @Crusherbolt365</title></rect>
+<rect x="702" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-17 · @Crusherbolt365</title></rect>
+<rect x="702" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-18 · @Crusherbolt365</title></rect>
+<rect x="702" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-19 · @Crusherbolt365</title></rect>
+<rect x="702" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-20 · @Crusherbolt365</title></rect>
+<rect x="702" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-21 · @Crusherbolt365</title></rect>
+<rect x="716" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-22 · @Crusherbolt365</title></rect>
+<rect x="716" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-23 · @Crusherbolt365</title></rect>
+<rect x="716" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-24 · @Crusherbolt365</title></rect>
+<rect x="716" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-25 · @Crusherbolt365</title></rect>
+<rect x="716" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-26 · @Crusherbolt365</title></rect>
+<rect x="716" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-27 · @Crusherbolt365</title></rect>
+<rect x="716" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-28 · @Crusherbolt365</title></rect>
+<rect x="730" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-29 · @Crusherbolt365</title></rect>
+<rect x="730" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-11-30 · @Crusherbolt365</title></rect>
+<rect x="730" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-01 · @Crusherbolt365</title></rect>
+<rect x="730" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-02 · @Crusherbolt365</title></rect>
+<rect x="730" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-03 · @Crusherbolt365</title></rect>
+<rect x="730" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-04 · @Crusherbolt365</title></rect>
+<rect x="730" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-05 · @Crusherbolt365</title></rect>
+<rect x="744" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-06 · @Crusherbolt365</title></rect>
+<rect x="744" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-07 · @Crusherbolt365</title></rect>
+<rect x="744" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-08 · @Crusherbolt365</title></rect>
+<rect x="744" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-09 · @Crusherbolt365</title></rect>
+<rect x="744" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-10 · @Crusherbolt365</title></rect>
+<rect x="744" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-11 · @Crusherbolt365</title></rect>
+<rect x="744" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-12 · @Crusherbolt365</title></rect>
+<rect x="758" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-13 · @Crusherbolt365</title></rect>
+<rect x="758" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-14 · @Crusherbolt365</title></rect>
+<rect x="758" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-15 · @Crusherbolt365</title></rect>
+<rect x="758" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-16 · @Crusherbolt365</title></rect>
+<rect x="758" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-17 · @Crusherbolt365</title></rect>
+<rect x="758" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-18 · @Crusherbolt365</title></rect>
+<rect x="758" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-19 · @Crusherbolt365</title></rect>
+<rect x="772" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-20 · @Crusherbolt365</title></rect>
+<rect x="772" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-21 · @Crusherbolt365</title></rect>
+<rect x="772" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-22 · @Crusherbolt365</title></rect>
+<rect x="772" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-23 · @Crusherbolt365</title></rect>
+<rect x="772" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-24 · @Crusherbolt365</title></rect>
+<rect x="772" y="202" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-25 · @Crusherbolt365</title></rect>
+<rect x="772" y="216" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-26 · @Crusherbolt365</title></rect>
+<rect x="786" y="132" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-27 · @Crusherbolt365</title></rect>
+<rect x="786" y="146" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-28 · @Crusherbolt365</title></rect>
+<rect x="786" y="160" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-29 · @Crusherbolt365</title></rect>
+<rect x="786" y="174" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-30 · @Crusherbolt365</title></rect>
+<rect x="786" y="188" width="11" height="11" rx="2" fill="#ebedf0" opacity="0.35"><title>0 commits on 2026-12-31 · @Crusherbolt365</title></rect>
+<line x1="448" y1="129" x2="448" y2="227" stroke="#7c3aed" stroke-width="2" stroke-dasharray="3 3"/>
+<text x="452" y="243" class="cutover" text-anchor="start">17 Jul: account switch</text>
+<rect x="24" y="241" width="10" height="10" rx="2" fill="#0f766e"/>
+<text x="40" y="250" class="legend" text-anchor="start">@Crusherbolt</text>
+<rect x="154" y="241" width="10" height="10" rx="2" fill="#0369a1"/>
+<text x="170" y="250" class="legend" text-anchor="start">@Crusherbolt365</text>
+<text x="810" y="250" class="axis" text-anchor="end">Updated 2026-08-04 · GitHub-counted commits</text>
+</svg>
