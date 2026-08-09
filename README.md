@@ -54,15 +54,17 @@ My original profile, [@Crusherbolt](https://github.com/Crusherbolt), contains:
 - GitHub Developer Program membership and the Pull Shark achievement
 - Public contribution history and repositories created before the July 2026 compromise
 
-### Combined Commit History
+### Combined Contribution History
 
-This graph joins my 2026 GitHub commit history across both accounts: [@Crusherbolt](https://github.com/Crusherbolt) through **16 July 2026**, then [@Crusherbolt365](https://github.com/Crusherbolt365) from **17 July 2026 onward**. The old-account count, new-account count, and combined total update automatically every day.
+GitHub's native profile calendar cannot merge activity from two accounts. The chart below combines GitHub's daily contribution counts from [@Crusherbolt](https://github.com/Crusherbolt) through **16 July 2026** and [@Crusherbolt365](https://github.com/Crusherbolt365) from **17 July 2026 onward**.
+
+It includes every available year from **2023 onward**, reports GitHub-counted contributions and restricted/private activity, and shows public commit contributions separately so the numbers are not mislabeled.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crusherbolt365/Crusherbolt365/main/assets/combined-commits.svg" alt="Combined 2026 commit graph for Crusherbolt and Crusherbolt365" />
+  <img src="https://raw.githubusercontent.com/Crusherbolt365/Crusherbolt365/main/assets/combined-commits.svg" alt="Combined GitHub contribution graphs for Crusherbolt and Crusherbolt365 from 2023 onward" />
 </p>
 
-<p align="center"><sub>Counts follow GitHub's commit-contribution rules. The automation uses public contribution data; private commits appear only when GitHub makes those counts available to the workflow.</sub></p>
+<p align="center"><sub>Generated daily from GitHub's contribution calendar. Private or restricted activity is included only when GitHub exposes its anonymized contribution count.</sub></p>
 
 ---
 

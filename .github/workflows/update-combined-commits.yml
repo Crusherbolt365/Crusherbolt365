@@ -1,4 +1,4 @@
-name: Update combined commit graph
+name: Update combined contribution graph
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-combined-commit-graph
+  group: update-combined-contribution-graph
   cancel-in-progress: true
 
 jobs:
@@ -24,9 +24,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate combined commit graph
+      - name: Generate combined contribution graph
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
+          GRAPH_START_YEAR: "2023"
         run: python scripts/generate_combined_commits.py
 
       - name: Commit updated graph when it changes
@@ -35,6 +36,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/combined-commits.svg assets/combined-commits.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh combined commit graph"
+            git commit -m "chore: refresh combined contribution graph"
             git push
           fi
