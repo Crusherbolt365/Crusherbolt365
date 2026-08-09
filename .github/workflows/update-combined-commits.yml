@@ -27,7 +27,6 @@ jobs:
       - name: Generate combined contribution graph
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || github.token }}
-          GRAPH_START_YEAR: "2023"
         run: python scripts/generate_combined_commits.py
 
       - name: Commit updated graph when it changes

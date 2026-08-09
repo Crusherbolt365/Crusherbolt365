@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a multi-year GitHub contribution calendar across two profiles."""
+"""Generate the current-year GitHub contribution calendar across two profiles."""
 
 from __future__ import annotations
 
@@ -18,8 +18,7 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 OLD_USER = os.getenv("OLD_GITHUB_USER", "Crusherbolt")
 NEW_USER = os.getenv("NEW_GITHUB_USER", "Crusherbolt365")
 CUTOVER = date.fromisoformat(os.getenv("ACCOUNT_CUTOVER_DATE", "2026-07-17"))
-START_YEAR = int(os.getenv("GRAPH_START_YEAR", "2023"))
-END_YEAR_OVERRIDE = os.getenv("GRAPH_END_YEAR")
+YEAR_OVERRIDE = os.getenv("GRAPH_YEAR")
 OUTPUT = Path(os.getenv("GRAPH_OUTPUT", "assets/combined-commits.svg"))
 DATA_OUTPUT = Path(os.getenv("GRAPH_DATA_OUTPUT", "assets/combined-commits.json"))
 
@@ -232,7 +231,11 @@ def build_svg(years: list[dict], today: date) -> str:
     contribution_total = old_total + new_total
     public_commits = sum(item["public_commits"] for item in years)
     restricted_total = sum(item["restricted"] for item in years)
-    year_span = f"{years[0]['year']}-{years[-1]['year']}"
+    year_span = (
+        str(years[0]["year"])
+        if len(years) == 1
+        else f"{years[0]['year']}-{years[-1]['year']}"
+    )
 
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -253,7 +256,7 @@ def build_svg(years: list[dict], today: date) -> str:
         ".cutover{font-size:9px;font-weight:600;fill:#7c3aed}",
         "</style>",
         '<rect width="100%" height="100%" rx="12" fill="#ffffff" stroke="#e2e8f0"/>',
-        svg_text(24, 31, f"Combined GitHub Activity · {year_span}", "title"),
+        svg_text(24, 31, f"Combined GitHub Activity / {year_span}", "title"),
         svg_text(24, 51, f"@{OLD_USER} through 16 July 2026 + @{NEW_USER} from 17 July 2026", "subtitle"),
     ]
 
@@ -299,7 +302,7 @@ def build_svg(years: list[dict], today: date) -> str:
             palette = old_palette if owner == OLD_USER else new_palette
             fill = color_for(count, palette)
             opacity = "0.35" if current > today else "1"
-            label = f"{count} contribution{'s' if count != 1 else ''} on {current.isoformat()} · @{owner}"
+            label = f"{count} contribution{'s' if count != 1 else ''} on {current.isoformat()} / @{owner}"
             parts.append(
                 f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{fill}" opacity="{opacity}">'
                 f"<title>{html.escape(label)}</title></rect>"
@@ -325,7 +328,7 @@ def build_svg(years: list[dict], today: date) -> str:
     parts.append(f'<rect x="154" y="{legend_y - 9}" width="10" height="10" rx="2" fill="#0369a1"/>')
     parts.append(svg_text(170, legend_y, f"@{NEW_USER}", "legend"))
     parts.append(svg_text(292, legend_y, f"Restricted/private total: {restricted_total}", "detail"))
-    parts.append(svg_text(width - 24, legend_y, f"Updated {today.isoformat()} · GitHub contribution calendar", "axis", "end"))
+    parts.append(svg_text(width - 24, legend_y, f"Updated {today.isoformat()} / GitHub contribution calendar", "axis", "end"))
     parts.append("</svg>")
     return "\n".join(parts) + "\n"
 
@@ -337,12 +340,12 @@ def main() -> int:
         return 2
 
     today = datetime.now(timezone.utc).date()
-    end_year = int(END_YEAR_OVERRIDE) if END_YEAR_OVERRIDE else today.year
-    if START_YEAR > end_year:
-        print("GRAPH_START_YEAR must not be after GRAPH_END_YEAR", file=sys.stderr)
+    graph_year = int(YEAR_OVERRIDE) if YEAR_OVERRIDE else today.year
+    if graph_year > today.year:
+        print("GRAPH_YEAR must not be in the future", file=sys.stderr)
         return 2
 
-    years = [collect_year(token, year, today) for year in range(START_YEAR, end_year + 1)]
+    years = [collect_year(token, graph_year, today)]
     old_total = sum(item["old"]["contributions"] for item in years)
     new_total = sum(item["new"]["contributions"] for item in years)
     public_commits = sum(item["public_commits"] for item in years)
@@ -356,8 +359,8 @@ def main() -> int:
             {
                 "schema_version": 2,
                 "metric": "github_contributions",
-                "start_year": START_YEAR,
-                "end_year": end_year,
+                "start_year": graph_year,
+                "end_year": graph_year,
                 "cutover_date": CUTOVER.isoformat(),
                 "updated_at": today.isoformat(),
                 "old": {"username": OLD_USER, "contributions": old_total},
