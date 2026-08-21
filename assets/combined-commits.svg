@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="314" viewBox="0 0 980 314" role="img" aria-labelledby="title desc">
 <title id="title">Combined GitHub contribution calendar for 2026</title>
-<desc id="desc">130 GitHub-counted contributions across @Crusherbolt and @Crusherbolt365, including 39 public commit contributions.</desc>
+<desc id="desc">130 GitHub-counted contributions across @Crusherbolt and @Crusherbolt365, including 38 public commit contributions.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
 .title{font-size:18px;font-weight:700;fill:#134e4a}
@@ -33,7 +33,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="726" y="66" width="218" height="50" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
 <rect x="726" y="66" width="4" height="50" rx="2" fill="#334155"/>
 <text x="740" y="84" class="stat-label" text-anchor="start">PUBLIC COMMIT CONTRIBUTIONS</text>
-<text x="740" y="108" class="stat-value" text-anchor="start">39</text>
+<text x="740" y="108" class="stat-value" text-anchor="start">38</text>
 <text x="24" y="163" class="year" text-anchor="start">2026</text>
 <text x="86" y="162" class="axis" text-anchor="start">Jan</text>
 <text x="146" y="162" class="axis" text-anchor="start">Feb</text>
@@ -282,7 +282,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="482" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-08-18 / @Crusherbolt365</title></rect>
 <rect x="482" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-08-19 / @Crusherbolt365</title></rect>
 <rect x="482" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-08-20 / @Crusherbolt365</title></rect>
-<rect x="482" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-08-21 / @Crusherbolt365</title></rect>
+<rect x="482" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-08-21 / @Crusherbolt365</title></rect>
 <rect x="482" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-08-22 / @Crusherbolt365</title></rect>
 <rect x="494" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-08-23 / @Crusherbolt365</title></rect>
 <rect x="494" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-08-24 / @Crusherbolt365</title></rect>
@@ -416,14 +416,14 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="710" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-12-30 / @Crusherbolt365</title></rect>
 <rect x="710" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-12-31 / @Crusherbolt365</title></rect>
 <text x="748" y="189" class="summary" text-anchor="start">130 contributions</text>
-<text x="748" y="207" class="detail" text-anchor="start">39 public commits</text>
-<text x="748" y="223" class="detail" text-anchor="start">43 restricted/private</text>
+<text x="748" y="207" class="detail" text-anchor="start">38 public commits</text>
+<text x="748" y="223" class="detail" text-anchor="start">44 restricted/private</text>
 <line x1="421" y1="171" x2="421" y2="255" stroke="#7c3aed" stroke-width="2" stroke-dasharray="3 3"/>
 <text x="425" y="267" class="cutover" text-anchor="start">account switch</text>
 <rect x="24" y="286" width="10" height="10" rx="2" fill="#0f766e"/>
 <text x="40" y="295" class="legend" text-anchor="start">@Crusherbolt</text>
 <rect x="154" y="286" width="10" height="10" rx="2" fill="#0369a1"/>
 <text x="170" y="295" class="legend" text-anchor="start">@Crusherbolt365</text>
-<text x="292" y="295" class="detail" text-anchor="start">Restricted/private total: 43</text>
-<text x="956" y="295" class="axis" text-anchor="end">Updated 2026-08-20 / GitHub contribution calendar</text>
+<text x="292" y="295" class="detail" text-anchor="start">Restricted/private total: 44</text>
+<text x="956" y="295" class="axis" text-anchor="end">Updated 2026-08-21 / GitHub contribution calendar</text>
 </svg>
