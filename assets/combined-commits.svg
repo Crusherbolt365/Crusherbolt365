@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="314" viewBox="0 0 980 314" role="img" aria-labelledby="title desc">
 <title id="title">Combined GitHub contribution calendar for 2026</title>
-<desc id="desc">153 GitHub-counted contributions across @Crusherbolt and @Crusherbolt365, including 39 public commit contributions.</desc>
+<desc id="desc">294 GitHub-counted contributions across @Crusherbolt and @Crusherbolt365, including 62 public commit contributions.</desc>
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}
 .title{font-size:18px;font-weight:700;fill:#134e4a}
@@ -21,7 +21,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="24" y="66" width="218" height="50" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
 <rect x="24" y="66" width="4" height="50" rx="2" fill="#0f766e"/>
 <text x="38" y="84" class="stat-label" text-anchor="start">OLD ID CONTRIBUTIONS</text>
-<text x="38" y="108" class="stat-value" text-anchor="start">78</text>
+<text x="38" y="108" class="stat-value" text-anchor="start">219</text>
 <rect x="258" y="66" width="218" height="50" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
 <rect x="258" y="66" width="4" height="50" rx="2" fill="#0369a1"/>
 <text x="272" y="84" class="stat-label" text-anchor="start">NEW ID CONTRIBUTIONS</text>
@@ -29,11 +29,11 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="492" y="66" width="218" height="50" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
 <rect x="492" y="66" width="4" height="50" rx="2" fill="#7c3aed"/>
 <text x="506" y="84" class="stat-label" text-anchor="start">COMBINED CONTRIBUTIONS</text>
-<text x="506" y="108" class="stat-value" text-anchor="start">153</text>
+<text x="506" y="108" class="stat-value" text-anchor="start">294</text>
 <rect x="726" y="66" width="218" height="50" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
 <rect x="726" y="66" width="4" height="50" rx="2" fill="#334155"/>
 <text x="740" y="84" class="stat-label" text-anchor="start">PUBLIC COMMIT CONTRIBUTIONS</text>
-<text x="740" y="108" class="stat-value" text-anchor="start">39</text>
+<text x="740" y="108" class="stat-value" text-anchor="start">62</text>
 <text x="24" y="163" class="year" text-anchor="start">2026</text>
 <text x="86" y="162" class="axis" text-anchor="start">Jan</text>
 <text x="146" y="162" class="axis" text-anchor="start">Feb</text>
@@ -74,7 +74,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="122" y="221" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-01-22 / @Crusherbolt</title></rect>
 <rect x="122" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-01-23 / @Crusherbolt</title></rect>
 <rect x="122" y="245" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-01-24 / @Crusherbolt</title></rect>
-<rect x="134" y="173" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-01-25 / @Crusherbolt</title></rect>
+<rect x="134" y="173" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>12 contributions on 2026-01-25 / @Crusherbolt</title></rect>
 <rect x="134" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-01-26 / @Crusherbolt</title></rect>
 <rect x="134" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-01-27 / @Crusherbolt</title></rect>
 <rect x="134" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-01-28 / @Crusherbolt</title></rect>
@@ -83,8 +83,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="134" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-01-31 / @Crusherbolt</title></rect>
 <rect x="146" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-01 / @Crusherbolt</title></rect>
 <rect x="146" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-02 / @Crusherbolt</title></rect>
-<rect x="146" y="197" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-03 / @Crusherbolt</title></rect>
-<rect x="146" y="209" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-04 / @Crusherbolt</title></rect>
+<rect x="146" y="197" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-02-03 / @Crusherbolt</title></rect>
+<rect x="146" y="209" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>6 contributions on 2026-02-04 / @Crusherbolt</title></rect>
 <rect x="146" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-05 / @Crusherbolt</title></rect>
 <rect x="146" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-06 / @Crusherbolt</title></rect>
 <rect x="146" y="245" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-07 / @Crusherbolt</title></rect>
@@ -93,48 +93,48 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="158" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-10 / @Crusherbolt</title></rect>
 <rect x="158" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-11 / @Crusherbolt</title></rect>
 <rect x="158" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-12 / @Crusherbolt</title></rect>
-<rect x="158" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-13 / @Crusherbolt</title></rect>
-<rect x="158" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-14 / @Crusherbolt</title></rect>
-<rect x="170" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-15 / @Crusherbolt</title></rect>
+<rect x="158" y="233" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-02-13 / @Crusherbolt</title></rect>
+<rect x="158" y="245" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-02-14 / @Crusherbolt</title></rect>
+<rect x="170" y="173" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-02-15 / @Crusherbolt</title></rect>
 <rect x="170" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-16 / @Crusherbolt</title></rect>
 <rect x="170" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-17 / @Crusherbolt</title></rect>
 <rect x="170" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-18 / @Crusherbolt</title></rect>
 <rect x="170" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-19 / @Crusherbolt</title></rect>
 <rect x="170" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-20 / @Crusherbolt</title></rect>
-<rect x="170" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-21 / @Crusherbolt</title></rect>
-<rect x="182" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-22 / @Crusherbolt</title></rect>
-<rect x="182" y="185" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-23 / @Crusherbolt</title></rect>
-<rect x="182" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-24 / @Crusherbolt</title></rect>
-<rect x="182" y="209" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-02-25 / @Crusherbolt</title></rect>
-<rect x="182" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-26 / @Crusherbolt</title></rect>
+<rect x="170" y="245" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-02-21 / @Crusherbolt</title></rect>
+<rect x="182" y="173" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-22 / @Crusherbolt</title></rect>
+<rect x="182" y="185" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>9 contributions on 2026-02-23 / @Crusherbolt</title></rect>
+<rect x="182" y="197" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-02-24 / @Crusherbolt</title></rect>
+<rect x="182" y="209" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>9 contributions on 2026-02-25 / @Crusherbolt</title></rect>
+<rect x="182" y="221" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>7 contributions on 2026-02-26 / @Crusherbolt</title></rect>
 <rect x="182" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-27 / @Crusherbolt</title></rect>
 <rect x="182" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-02-28 / @Crusherbolt</title></rect>
 <rect x="194" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-01 / @Crusherbolt</title></rect>
 <rect x="194" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-02 / @Crusherbolt</title></rect>
 <rect x="194" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-03 / @Crusherbolt</title></rect>
-<rect x="194" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-04 / @Crusherbolt</title></rect>
+<rect x="194" y="209" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>5 contributions on 2026-03-04 / @Crusherbolt</title></rect>
 <rect x="194" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-05 / @Crusherbolt</title></rect>
 <rect x="194" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-06 / @Crusherbolt</title></rect>
-<rect x="194" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-07 / @Crusherbolt</title></rect>
-<rect x="206" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-08 / @Crusherbolt</title></rect>
+<rect x="194" y="245" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-03-07 / @Crusherbolt</title></rect>
+<rect x="206" y="173" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-03-08 / @Crusherbolt</title></rect>
 <rect x="206" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-09 / @Crusherbolt</title></rect>
 <rect x="206" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-10 / @Crusherbolt</title></rect>
 <rect x="206" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-11 / @Crusherbolt</title></rect>
 <rect x="206" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-12 / @Crusherbolt</title></rect>
 <rect x="206" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-13 / @Crusherbolt</title></rect>
-<rect x="206" y="245" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-03-14 / @Crusherbolt</title></rect>
+<rect x="206" y="245" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>14 contributions on 2026-03-14 / @Crusherbolt</title></rect>
 <rect x="218" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-15 / @Crusherbolt</title></rect>
 <rect x="218" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-16 / @Crusherbolt</title></rect>
 <rect x="218" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-17 / @Crusherbolt</title></rect>
-<rect x="218" y="209" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>7 contributions on 2026-03-18 / @Crusherbolt</title></rect>
-<rect x="218" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-19 / @Crusherbolt</title></rect>
+<rect x="218" y="209" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>13 contributions on 2026-03-18 / @Crusherbolt</title></rect>
+<rect x="218" y="221" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-03-19 / @Crusherbolt</title></rect>
 <rect x="218" y="233" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-03-20 / @Crusherbolt</title></rect>
-<rect x="218" y="245" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-03-21 / @Crusherbolt</title></rect>
+<rect x="218" y="245" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-03-21 / @Crusherbolt</title></rect>
 <rect x="230" y="173" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-03-22 / @Crusherbolt</title></rect>
 <rect x="230" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-23 / @Crusherbolt</title></rect>
 <rect x="230" y="197" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-03-24 / @Crusherbolt</title></rect>
 <rect x="230" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-25 / @Crusherbolt</title></rect>
-<rect x="230" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-26 / @Crusherbolt</title></rect>
+<rect x="230" y="221" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>21 contributions on 2026-03-26 / @Crusherbolt</title></rect>
 <rect x="230" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-27 / @Crusherbolt</title></rect>
 <rect x="230" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-28 / @Crusherbolt</title></rect>
 <rect x="242" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-03-29 / @Crusherbolt</title></rect>
@@ -174,23 +174,23 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="290" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-02 / @Crusherbolt</title></rect>
 <rect x="302" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-03 / @Crusherbolt</title></rect>
 <rect x="302" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-04 / @Crusherbolt</title></rect>
-<rect x="302" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-05 / @Crusherbolt</title></rect>
-<rect x="302" y="209" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-05-06 / @Crusherbolt</title></rect>
-<rect x="302" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-07 / @Crusherbolt</title></rect>
+<rect x="302" y="197" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>5 contributions on 2026-05-05 / @Crusherbolt</title></rect>
+<rect x="302" y="209" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-05-06 / @Crusherbolt</title></rect>
+<rect x="302" y="221" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-05-07 / @Crusherbolt</title></rect>
 <rect x="302" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-08 / @Crusherbolt</title></rect>
 <rect x="302" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-09 / @Crusherbolt</title></rect>
-<rect x="314" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-10 / @Crusherbolt</title></rect>
-<rect x="314" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-11 / @Crusherbolt</title></rect>
+<rect x="314" y="173" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-05-10 / @Crusherbolt</title></rect>
+<rect x="314" y="185" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-05-11 / @Crusherbolt</title></rect>
 <rect x="314" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-12 / @Crusherbolt</title></rect>
 <rect x="314" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-13 / @Crusherbolt</title></rect>
 <rect x="314" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-14 / @Crusherbolt</title></rect>
 <rect x="314" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-15 / @Crusherbolt</title></rect>
-<rect x="314" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-16 / @Crusherbolt</title></rect>
+<rect x="314" y="245" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-05-16 / @Crusherbolt</title></rect>
 <rect x="326" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-17 / @Crusherbolt</title></rect>
 <rect x="326" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-18 / @Crusherbolt</title></rect>
 <rect x="326" y="197" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-05-19 / @Crusherbolt</title></rect>
-<rect x="326" y="209" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-05-20 / @Crusherbolt</title></rect>
-<rect x="326" y="221" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-05-21 / @Crusherbolt</title></rect>
+<rect x="326" y="209" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>5 contributions on 2026-05-20 / @Crusherbolt</title></rect>
+<rect x="326" y="221" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>6 contributions on 2026-05-21 / @Crusherbolt</title></rect>
 <rect x="326" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-22 / @Crusherbolt</title></rect>
 <rect x="326" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-23 / @Crusherbolt</title></rect>
 <rect x="338" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-24 / @Crusherbolt</title></rect>
@@ -200,7 +200,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="338" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-28 / @Crusherbolt</title></rect>
 <rect x="338" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-29 / @Crusherbolt</title></rect>
 <rect x="338" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-30 / @Crusherbolt</title></rect>
-<rect x="350" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-05-31 / @Crusherbolt</title></rect>
+<rect x="350" y="173" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-05-31 / @Crusherbolt</title></rect>
 <rect x="350" y="185" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-06-01 / @Crusherbolt</title></rect>
 <rect x="350" y="197" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-06-02 / @Crusherbolt</title></rect>
 <rect x="350" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-03 / @Crusherbolt</title></rect>
@@ -208,16 +208,16 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="350" y="233" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-06-05 / @Crusherbolt</title></rect>
 <rect x="350" y="245" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-06-06 / @Crusherbolt</title></rect>
 <rect x="362" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-07 / @Crusherbolt</title></rect>
-<rect x="362" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-08 / @Crusherbolt</title></rect>
+<rect x="362" y="185" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-06-08 / @Crusherbolt</title></rect>
 <rect x="362" y="197" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-06-09 / @Crusherbolt</title></rect>
 <rect x="362" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-10 / @Crusherbolt</title></rect>
 <rect x="362" y="221" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>3 contributions on 2026-06-11 / @Crusherbolt</title></rect>
 <rect x="362" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-12 / @Crusherbolt</title></rect>
 <rect x="362" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-13 / @Crusherbolt</title></rect>
 <rect x="374" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-14 / @Crusherbolt</title></rect>
-<rect x="374" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-15 / @Crusherbolt</title></rect>
+<rect x="374" y="185" width="10" height="10" rx="2" fill="#99f6e4" opacity="1"><title>1 contribution on 2026-06-15 / @Crusherbolt</title></rect>
 <rect x="374" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-16 / @Crusherbolt</title></rect>
-<rect x="374" y="209" width="10" height="10" rx="2" fill="#5eead4" opacity="1"><title>2 contributions on 2026-06-17 / @Crusherbolt</title></rect>
+<rect x="374" y="209" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-06-17 / @Crusherbolt</title></rect>
 <rect x="374" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-18 / @Crusherbolt</title></rect>
 <rect x="374" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-19 / @Crusherbolt</title></rect>
 <rect x="374" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-06-20 / @Crusherbolt</title></rect>
@@ -242,7 +242,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="410" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-07-09 / @Crusherbolt</title></rect>
 <rect x="410" y="233" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>5 contributions on 2026-07-10 / @Crusherbolt</title></rect>
 <rect x="410" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-07-11 / @Crusherbolt</title></rect>
-<rect x="422" y="173" width="10" height="10" rx="2" fill="#2dd4bf" opacity="1"><title>4 contributions on 2026-07-12 / @Crusherbolt</title></rect>
+<rect x="422" y="173" width="10" height="10" rx="2" fill="#0f766e" opacity="1"><title>20 contributions on 2026-07-12 / @Crusherbolt</title></rect>
 <rect x="422" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-07-13 / @Crusherbolt</title></rect>
 <rect x="422" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-07-14 / @Crusherbolt</title></rect>
 <rect x="422" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-07-15 / @Crusherbolt</title></rect>
@@ -365,12 +365,12 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="626" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-09 / @Crusherbolt365</title></rect>
 <rect x="626" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-10 / @Crusherbolt365</title></rect>
 <rect x="626" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-11 / @Crusherbolt365</title></rect>
-<rect x="626" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-12 / @Crusherbolt365</title></rect>
-<rect x="626" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-13 / @Crusherbolt365</title></rect>
-<rect x="626" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-14 / @Crusherbolt365</title></rect>
-<rect x="638" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-15 / @Crusherbolt365</title></rect>
-<rect x="638" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-16 / @Crusherbolt365</title></rect>
-<rect x="638" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-17 / @Crusherbolt365</title></rect>
+<rect x="626" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-12 / @Crusherbolt365</title></rect>
+<rect x="626" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-13 / @Crusherbolt365</title></rect>
+<rect x="626" y="245" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-14 / @Crusherbolt365</title></rect>
+<rect x="638" y="173" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-15 / @Crusherbolt365</title></rect>
+<rect x="638" y="185" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-16 / @Crusherbolt365</title></rect>
+<rect x="638" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="1"><title>0 contributions on 2026-11-17 / @Crusherbolt365</title></rect>
 <rect x="638" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-18 / @Crusherbolt365</title></rect>
 <rect x="638" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-19 / @Crusherbolt365</title></rect>
 <rect x="638" y="233" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-11-20 / @Crusherbolt365</title></rect>
@@ -415,15 +415,15 @@ text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-
 <rect x="710" y="197" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-12-29 / @Crusherbolt365</title></rect>
 <rect x="710" y="209" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-12-30 / @Crusherbolt365</title></rect>
 <rect x="710" y="221" width="10" height="10" rx="2" fill="#ebedf0" opacity="0.35"><title>0 contributions on 2026-12-31 / @Crusherbolt365</title></rect>
-<text x="748" y="189" class="summary" text-anchor="start">153 contributions</text>
-<text x="748" y="207" class="detail" text-anchor="start">39 public commits</text>
-<text x="748" y="223" class="detail" text-anchor="start">66 restricted/private</text>
+<text x="748" y="189" class="summary" text-anchor="start">294 contributions</text>
+<text x="748" y="207" class="detail" text-anchor="start">62 public commits</text>
+<text x="748" y="223" class="detail" text-anchor="start">184 restricted/private</text>
 <line x1="421" y1="171" x2="421" y2="255" stroke="#7c3aed" stroke-width="2" stroke-dasharray="3 3"/>
 <text x="425" y="267" class="cutover" text-anchor="start">account switch</text>
 <rect x="24" y="286" width="10" height="10" rx="2" fill="#0f766e"/>
 <text x="40" y="295" class="legend" text-anchor="start">@Crusherbolt</text>
 <rect x="154" y="286" width="10" height="10" rx="2" fill="#0369a1"/>
 <text x="170" y="295" class="legend" text-anchor="start">@Crusherbolt365</text>
-<text x="292" y="295" class="detail" text-anchor="start">Restricted/private total: 66</text>
-<text x="956" y="295" class="axis" text-anchor="end">Updated 2026-11-11 / GitHub contribution calendar</text>
+<text x="292" y="295" class="detail" text-anchor="start">Restricted/private total: 184</text>
+<text x="956" y="295" class="axis" text-anchor="end">Updated 2026-11-17 / GitHub contribution calendar</text>
 </svg>

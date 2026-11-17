@@ -4,31 +4,31 @@
   "start_year": 2026,
   "end_year": 2026,
   "cutover_date": "2026-07-17",
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-17",
   "old": {
     "username": "Crusherbolt",
-    "contributions": 78
+    "contributions": 219
   },
   "new": {
     "username": "Crusherbolt365",
     "contributions": 75
   },
   "totals": {
-    "contributions": 153,
-    "public_commit_contributions": 39,
-    "restricted_contributions": 66
+    "contributions": 294,
+    "public_commit_contributions": 62,
+    "restricted_contributions": 184
   },
   "years": [
     {
       "year": 2026,
-      "contributions": 153,
-      "public_commits": 39,
-      "restricted_contributions": 66,
+      "contributions": 294,
+      "public_commits": 62,
+      "restricted_contributions": 184,
       "old": {
         "username": "Crusherbolt",
-        "contributions": 78,
-        "public_commits": 30,
-        "restricted_contributions": 41
+        "contributions": 219,
+        "public_commits": 53,
+        "restricted_contributions": 159
       },
       "new": {
         "username": "Crusherbolt365",
